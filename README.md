@@ -1,6 +1,6 @@
-## Hallo World, Im Anugrah Alvarizzi 👋
+## Hallo World!, I'm Anugrah Alvarizzi 👋
 
-![Anugral Alvarizzi](gif/header.gif)
+![Anugral Alvarizzi](gif/header1.gif)
 
 <!--
 **grhvrz/grhvrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About Me
+**I'm a student at a private university in Indonesia, majoring in Information Systems. I really enjoy learning about computers and various programming languages. I'm also into graphic design and pretty good with some design software too.**
 
